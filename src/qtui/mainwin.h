@@ -188,6 +188,7 @@ private:
     void setupChatMonitor();
     void setupInputWidget();
     void setupTopicWidget();
+    void setupTransferWidget();
     void setupViewMenuTail();
     void setupStatusBar();
     void setupSystray();
